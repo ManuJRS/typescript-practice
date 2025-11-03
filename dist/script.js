@@ -3,9 +3,9 @@ function saludar(nombre, edad) {
         return (`Hola, mi nombre es ${nombre} y tengo ${edad} anios`);
     }
     else {
-        return (`Hola, mi nombre es ${nombre} y no tengo edad`);
+        return (`Hola, mi nombre es ${nombre} y no tengo edad uno`);
     }
 }
-console.log(saludar("manuel"));
+console.log(saludar("manu", 20));
 export {};
 //# sourceMappingURL=script.js.map
