@@ -12,4 +12,4 @@
 
 // Pista:
 // 👉 Usa if...else if...else y asegúrate de tipar correctamente el parámetro y el valor de retorno.
-
+console.log("HELLO WORLD")
